@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1706.6667
     height: 976
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Hierarchy
   m_RootView: {fileID: 10}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -100,7 +100,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 112
+  controlID: 152
   draggingID: 0
 --- !u!114 &5
 MonoBehaviour:
@@ -125,7 +125,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 1
-  controlID: 775
+  controlID: 150
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -151,7 +151,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 776
+  controlID: 151
   draggingID: 0
 --- !u!114 &7
 MonoBehaviour:
@@ -326,7 +326,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 777
+  controlID: 73
   draggingID: 0
 --- !u!114 &14
 MonoBehaviour:
@@ -353,7 +353,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 50}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 778
+  controlID: 74
   draggingID: 0
 --- !u!114 &15
 MonoBehaviour:
@@ -485,7 +485,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Creator Kit - FPS/Prefabs/Rooms
+    - Assets
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -495,17 +495,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 68
   m_LastFolders:
-  - Assets/Creator Kit - FPS/Prefabs/Rooms
+  - Assets
   m_LastFoldersGridSize: 68
-  m_LastProjectPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project
+  m_LastProjectPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: ca000100
-    m_LastClickedID: 65738
-    m_ExpandedIDs: 000000007cc00000b0000100b60001005e02010000ca9a3bffffff7f
+    m_SelectedIDs: 50cf0000
+    m_LastClickedID: 53072
+    m_ExpandedIDs: 0000000050cf000052cf000054cf000056cf000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -534,7 +533,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 0000000050cf000052cf000054cf000056cf0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -682,9 +681,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 027dffffd2e2ffff
+      m_SelectedIDs: d2f6ffff
+      m_LastClickedID: -2350
+      m_ExpandedIDs: eefaffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1353,11 +1352,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.16131371, y: 0.63483965, z: -0.13784191, w: -0.7429411}
     speed: 2
-    m_Value: {x: -0.16252029, y: 0.636045, z: -0.13943627, w: -0.7413444}
+    m_Value: {x: -0.16131371, y: 0.63483965, z: -0.13784191, w: -0.7429411}
   m_Size:
     m_Target: 23.229088
     speed: 2
-    m_Value: 22.228792
+    m_Value: 23.229088
   m_Ortho:
     m_Target: 0
     speed: 2

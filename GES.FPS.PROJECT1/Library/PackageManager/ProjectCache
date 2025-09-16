@@ -1,7 +1,6 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/Dotpl/OneDrive/Desktop/Trents stuff/GES.FPS.PROJECT1/My
-      project/Packages/manifest.json
+    m_FilePath: C:/GES.FPS.PROJECT1/GES.FPS.PROJECT1/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -9,8 +8,7 @@ m_ProjectFiles:
       ticks: 638936585884889559
     m_Hash: 144850332
   m_LockFileStatus:
-    m_FilePath: C:/Users/Dotpl/OneDrive/Desktop/Trents stuff/GES.FPS.PROJECT1/My
-      project/Packages/packages-lock.json
+    m_FilePath: C:/GES.FPS.PROJECT1/GES.FPS.PROJECT1/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -21,7 +19,7 @@ m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Users/Dotpl/OneDrive/Desktop/Trents stuff/GES.FPS.PROJECT1/My project/Packages
+m_ProjectPath: C:/GES.FPS.PROJECT1/GES.FPS.PROJECT1/Packages
 m_EditorVersion: 6000.0.56f1 (9c7b5e468860)
 m_ResolvedPackages:
 - packageId: com.unity.2d.sprite@1.0.0
@@ -29,8 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.2d.sprite@a1146c20a947
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.2d.sprite@a1146c20a947
   assetPath: Packages/com.unity.2d.sprite
   name: com.unity.2d.sprite
   displayName: 2D Sprite
@@ -109,8 +106,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.2d.tilemap@3f6ff602680c
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.2d.tilemap@3f6ff602680c
   assetPath: Packages/com.unity.2d.tilemap
   name: com.unity.2d.tilemap
   displayName: 2D Tilemap Editor
@@ -206,8 +202,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 4.4.2
   source: 1
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.ads@a7b997f68a1d
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.ads@a7b997f68a1d
   assetPath: Packages/com.unity.ads
   name: com.unity.ads
   displayName: Advertisement Legacy
@@ -349,8 +344,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.8
   source: 1
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.ai.navigation@eb5635ad590d
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.ai.navigation@eb5635ad590d
   assetPath: Packages/com.unity.ai.navigation
   name: com.unity.ai.navigation
   displayName: AI Navigation
@@ -474,8 +468,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.8.1
   source: 1
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.analytics@6cc66d58ac08
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.analytics@6cc66d58ac08
   assetPath: Packages/com.unity.analytics
   name: com.unity.analytics
   displayName: Analytics Library
@@ -548,11 +541,11 @@ m_ResolvedPackages:
     version: 6.0.3
   - name: com.unity.services.core
     version: 1.14.0
-  - name: com.unity.modules.unitywebrequest
+  - name: com.unity.modules.androidjni
     version: 1.0.0
   - name: com.unity.nuget.newtonsoft-json
     version: 3.2.1
-  - name: com.unity.modules.androidjni
+  - name: com.unity.modules.unitywebrequest
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
@@ -612,8 +605,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.9.3
   source: 1
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Unity Version Control
@@ -791,8 +783,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.5
   source: 2
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.ext.nunit@031a54704bff
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.ext.nunit@031a54704bff
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -871,8 +862,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.36
   source: 1
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.ide.rider@4d374c7eb6db
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.ide.rider@4d374c7eb6db
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -1001,8 +991,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.23
   source: 1
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -1117,8 +1106,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.14.2
   source: 1
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.inputsystem@be6c4fd0abf5
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.inputsystem@be6c4fd0abf5
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -1273,8 +1261,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -1367,8 +1354,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.2.1
   source: 1
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.nuget.newtonsoft-json@74deb55db2a0
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.nuget.newtonsoft-json@74deb55db2a0
   assetPath: Packages/com.unity.nuget.newtonsoft-json
   name: com.unity.nuget.newtonsoft-json
   displayName: Newtonsoft Json
@@ -1427,7 +1413,7 @@ m_ResolvedPackages:
       violations: []
   hideInEditor: 1
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638186318800000000
   documentationUrl: 
@@ -1468,8 +1454,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.5.0
   source: 1
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.postprocessing@94edadb6c5ab
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.postprocessing@94edadb6c5ab
   assetPath: Packages/com.unity.postprocessing
   name: com.unity.postprocessing
   displayName: Post Processing
@@ -1591,8 +1576,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 4.12.2
   source: 1
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.purchasing@649c6c7b3b1b
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.purchasing@649c6c7b3b1b
   assetPath: Packages/com.unity.purchasing
   name: com.unity.purchasing
   displayName: In App Purchasing
@@ -1735,11 +1719,11 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.services.core
     version: 1.14.0
-  - name: com.unity.modules.unitywebrequest
+  - name: com.unity.modules.androidjni
     version: 1.0.0
   - name: com.unity.nuget.newtonsoft-json
     version: 3.2.1
-  - name: com.unity.modules.androidjni
+  - name: com.unity.modules.unitywebrequest
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
@@ -1802,8 +1786,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 17.0.4
   source: 2
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.render-pipelines.universal@ec146228694a
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.render-pipelines.universal@ec146228694a
   assetPath: Packages/com.unity.render-pipelines.universal
   name: com.unity.render-pipelines.universal
   displayName: Universal Render Pipeline
@@ -1929,8 +1912,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 6.0.3
   source: 1
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.services.analytics@3692623288ba
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.services.analytics@3692623288ba
   assetPath: Packages/com.unity.services.analytics
   name: com.unity.services.analytics
   displayName: Analytics
@@ -2000,11 +1982,11 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.services.core
     version: 1.14.0
-  - name: com.unity.modules.unitywebrequest
+  - name: com.unity.modules.androidjni
     version: 1.0.0
   - name: com.unity.nuget.newtonsoft-json
     version: 3.2.1
-  - name: com.unity.modules.androidjni
+  - name: com.unity.modules.unitywebrequest
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
@@ -2064,8 +2046,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.14.0
   source: 1
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.services.core@9e81a5e38245
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.services.core@9e81a5e38245
   assetPath: Packages/com.unity.services.core
   name: com.unity.services.core
   displayName: Services Core
@@ -2121,18 +2102,18 @@ m_ResolvedPackages:
     recommended: 1.15.1
     deprecated: []
   dependencies:
-  - name: com.unity.modules.unitywebrequest
+  - name: com.unity.modules.androidjni
     version: 1.0.0
   - name: com.unity.nuget.newtonsoft-json
     version: 3.2.1
-  - name: com.unity.modules.androidjni
+  - name: com.unity.modules.unitywebrequest
     version: 1.0.0
   resolvedDependencies:
-  - name: com.unity.modules.unitywebrequest
+  - name: com.unity.modules.androidjni
     version: 1.0.0
   - name: com.unity.nuget.newtonsoft-json
     version: 3.2.1
-  - name: com.unity.modules.androidjni
+  - name: com.unity.modules.unitywebrequest
     version: 1.0.0
   keywords: []
   registry:
@@ -2148,7 +2129,7 @@ m_ResolvedPackages:
       violations: []
   hideInEditor: 1
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638684041320270000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.core@1.14/manual/index.html
@@ -2194,8 +2175,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.5.1
   source: 2
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.test-framework@16d3eb9e8c28
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.test-framework@16d3eb9e8c28
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -2284,8 +2264,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.8.9
   source: 1
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.timeline@6b9e48457ddb
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.timeline@6b9e48457ddb
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -2482,8 +2461,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.ugui@5c0fb321704a
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.ugui@5c0fb321704a
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -2578,8 +2556,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.9.7
   source: 1
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.visualscripting@6279e2b7c485
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.visualscripting@6279e2b7c485
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -2711,8 +2688,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.1.12
   source: 1
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.xr.legacyinputhelpers@b7579e86f3b4
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.xr.legacyinputhelpers@b7579e86f3b4
   assetPath: Packages/com.unity.xr.legacyinputhelpers
   name: com.unity.xr.legacyinputhelpers
   displayName: XR Legacy Input Helpers
@@ -2797,7 +2773,7 @@ m_ResolvedPackages:
       violations: []
   hideInEditor: 1
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 638738251595540000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.xr.legacyinputhelpers@2.1/manual/index.html
@@ -5566,8 +5542,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.4
   source: 2
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.render-pipelines.core@7f4c442d4f3e
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.render-pipelines.core@7f4c442d4f3e
   assetPath: Packages/com.unity.render-pipelines.core
   name: com.unity.render-pipelines.core
   displayName: Scriptable Render Pipeline Core
@@ -5692,8 +5667,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.4
   source: 2
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.shadergraph@58c763b6444e
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.shadergraph@58c763b6444e
   assetPath: Packages/com.unity.shadergraph
   name: com.unity.shadergraph
   displayName: Shader Graph
@@ -5808,8 +5782,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.3
   source: 2
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.render-pipelines.universal-config@dd206bf35d04
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.render-pipelines.universal-config@dd206bf35d04
   assetPath: Packages/com.unity.render-pipelines.universal-config
   name: com.unity.render-pipelines.universal-config
   displayName: Universal Render Pipeline Config
@@ -5916,8 +5889,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 4.9.3
   source: 1
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.searcher@1e17ce91558d
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.searcher@1e17ce91558d
   assetPath: Packages/com.unity.searcher
   name: com.unity.searcher
   displayName: Searcher
@@ -6013,8 +5985,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.8.24
   source: 1
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.burst@f7a407abf4d5
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.burst@f7a407abf4d5
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -6248,8 +6219,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.3.2
   source: 1
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.mathematics@8017b507cc74
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.mathematics@8017b507cc74
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -6347,8 +6317,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.5.1
   source: 1
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.collections@56bff8827a7e
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.collections@56bff8827a7e
   assetPath: Packages/com.unity.collections
   name: com.unity.collections
   displayName: Collections
@@ -6536,8 +6505,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.1
   source: 2
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.rendering.light-transport@9bd588f963c0
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.rendering.light-transport@9bd588f963c0
   assetPath: Packages/com.unity.rendering.light-transport
   name: com.unity.rendering.light-transport
   displayName: Unity Light Transport Library
@@ -6642,8 +6610,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.11.4
   source: 1
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.nuget.mono-cecil@d6f9955a5d5f
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.nuget.mono-cecil@d6f9955a5d5f
   assetPath: Packages/com.unity.nuget.mono-cecil
   name: com.unity.nuget.mono-cecil
   displayName: Mono Cecil
@@ -6734,8 +6701,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.1.0
   source: 1
-  resolvedPath: C:\Users\Dotpl\OneDrive\Desktop\Trents stuff\GES.FPS.PROJECT1\My
-    project\Library\PackageCache\com.unity.test-framework.performance@92d1d09a72ed
+  resolvedPath: C:\GES.FPS.PROJECT1\GES.FPS.PROJECT1\Library\PackageCache\com.unity.test-framework.performance@92d1d09a72ed
   assetPath: Packages/com.unity.test-framework.performance
   name: com.unity.test-framework.performance
   displayName: Performance testing API
