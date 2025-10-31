@@ -16,6 +16,7 @@ public class AmmoInventoryEntry
 public class Controller : MonoBehaviour
 {
     //Urg that's ugly, maybe find a better way
+    //TL: what?
     public static Controller Instance { get; protected set; }
 
     public Camera MainCamera;
@@ -54,9 +55,14 @@ public class Controller : MonoBehaviour
 
     CharacterController m_CharacterController;
 
-    bool m_Grounded;
-    float m_GroundedTimer;
+    bool m_Grounded;                                                        // need this for Coyote Time
+    float m_GroundedTimer;                                                  // need this for Coyote Time
     float m_SpeedAtJump = 0.0f;
+
+
+// ============= COYOTE TIME SYSTEM =============
+    float m_CoyoteTimeWindow = 0.2f;
+    float m_TimeSinceGrounded = 0.0f;
 
     List<Weapon> m_Weapons = new List<Weapon>();
     Dictionary<int, int> m_AmmoInventory = new Dictionary<int, int>();
@@ -118,7 +124,7 @@ public class Controller : MonoBehaviour
         //if the character controller reported not being grounded for at least .5 second;
         if (!m_CharacterController.isGrounded)
         {
-            if (m_Grounded)
+            if (m_Grounded) // need this for Coyote Time
             {
                 m_GroundedTimer += Time.deltaTime;
                 if (m_GroundedTimer >= 0.5f)
@@ -134,17 +140,36 @@ public class Controller : MonoBehaviour
             m_Grounded = true;
         }
 
+        // ============= COYOTE TIME TRACKING =============
+        if (m_Grounded)        
+        {
+            // We're on the ground - reset the coyote timer
+            m_TimeSinceGrounded = 0.0f; 
+        }
+        else
+        {
+            // We're in the air - count up how long we've been off ground
+            m_TimeSinceGrounded += Time.deltaTime;
+
+        } //end of if statement
+
         Speed = 0;
         Vector3 move = Vector3.zero;
         if (!m_IsPaused && !LockControl)
         {
             // Jump (we do it first as 
-            if (m_Grounded && Input.GetButtonDown("Jump"))
+            if ((m_Grounded || m_TimeSinceGrounded < m_CoyoteTimeWindow) && Input.GetButtonDown("Jump")) // need this for Coyote Time
             {
                 m_VerticalSpeed = JumpSpeed;
                 m_Grounded = false;
                 loosedGrounding = true;
+                 // Play jump sound
                 FootstepPlayer.PlayClip(JumpingAudioCLip, 0.8f,1.1f);
+
+
+                // Consume the coyote time by setting timer beyond window
+                m_TimeSinceGrounded = m_CoyoteTimeWindow + 1.0f;
+        
             }
             
             bool running = m_Weapons[m_CurrentWeapon].CurrentState == Weapon.WeaponState.Idle && Input.GetButton("Run");
